@@ -1,0 +1,35 @@
+{
+  "name": "kuada_ly_zatzpancioli_ontariosummer",
+  "version": "1.0.0",
+  "description": "Ontario Tourism Project",
+  "main": "index.js",
+  "dependencies": {
+    "node-js": "^1.0.0",
+    "node-sass": "^4.11.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch-sass": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annapancioli/Kuada_Ly_ZatzPancioli_OntarioSummer.git"
+  },
+  "keywords": [
+    "Ontario",
+    "Design",
+    "Tourism",
+    "Summer",
+    "Website"
+  ],
+  "author": "Anna Carolina Zatz Pancioli, Han Ly and Nathalia Miki Kuada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annapancioli/Kuada_Ly_ZatzPancioli_OntarioSummer/issues"
+  },
+  "homepage": "https://github.com/annapancioli/Kuada_Ly_ZatzPancioli_OntarioSummer#readme"
+}
